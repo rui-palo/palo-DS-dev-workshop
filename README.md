@@ -12,6 +12,4 @@ Objectives:
 - Experience CSS selectors and syntax
 - Experience basic JS like jQuery
 
-Conducted by Rui and Jon
-rchai@palo-it.com
-jontan@palo-it.com
+Conducted by Rui(rchai@palo-it.com) and Jon(jontan@palo-it.com)
