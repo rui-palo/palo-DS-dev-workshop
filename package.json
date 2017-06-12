@@ -1,0 +1,14 @@
+{
+  "name": "dev5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-js.js",
+  "scripts": {
+    "start": "./node_modules/lr-http-server/bin/lr-http-server"
+  },
+  "author": "Rui & Jon",
+  "license": "ISC",
+  "dependencies": {
+    "lr-http-server": "^0.1.5"
+  }
+}
