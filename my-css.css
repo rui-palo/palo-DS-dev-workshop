@@ -1,0 +1,45 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  display: flex;
+}
+
+.card-holder {
+  width: 400px;
+  height: 240px;
+  background-color: #eaeaea;
+  padding: 10px;
+  margin: 0 auto;
+  position: relative;
+  align-self: center;
+}
+
+.card > div {
+  vertical-align: top;
+}
+
+.card .pic-holder, .phone div {
+  display: inline-block;
+}
+
+.card .details {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.details > div {
+  margin-bottom: 5px;
+}
+
+.phone .label {
+  width: 50px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
